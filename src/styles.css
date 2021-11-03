@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+}
+
+.bt {
+  border-top: 15px solid orange;
+}
+
+.bb {
+  border-bottom: 15px solid orange;
+}
+
+.bl {
+  border-left: 15px solid orange;
+}
+
+.br {
+  border-right: 15px solid orange;
+}
+
+#btn-start-timer {
+  margin-top: 15px;
+  padding: 10px;
+}
